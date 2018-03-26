@@ -1,2 +1,1 @@
-自學的Python專案將會被放在這裡
-
+## Python project here
